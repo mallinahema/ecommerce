@@ -1,0 +1,30 @@
+{
+	"mobiles":[
+		{
+			"name":"redmi note 8 pro",
+		    "image":"img/redmi-note-8-pro.jpg",
+	        "originalPrice":14000,
+	        "price":12000
+	    },{
+	        "name":"MI note 9 pro max",
+		    "image":"img/Redmi-note-9-Pro-Max.jpg",
+	        "originalPrice":16000,
+	        "price":15000
+	    },{
+	    	"name":"one plus nord",
+		    "image":"img/OnePlus-Nord.jpg",
+	        "originalPrice":32000,
+	        "price":30000
+	    },{
+	    	"name":"samsung M31",
+		    "image":"img/Samsung-Galaxy-M31.jpg",
+	        "originalPrice":18000,
+	        "price":17000
+	    },{
+	    	"name":"iphone 11",
+		    "image":"img/iphone11.jpg",
+	        "originalPrice":74000,
+	        "price":72000
+	    }
+	]
+}
